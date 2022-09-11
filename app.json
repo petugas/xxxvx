@@ -1,8 +1,8 @@
 {
   "name": "Insta-Follow : madewgn",
-  "description": "host insta-foloow on heroku.",
+  "description": "followers ig.",
   "image": "heroku/python",
-  "repository": "https://git.madewgn.eu.org/insta-follow",
+  "repository": "https://github.com/petugas/foll",
   "keywords": ["python", "instagram" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
